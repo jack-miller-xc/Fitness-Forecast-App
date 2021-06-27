@@ -18,4 +18,8 @@ Set it to red.
 
 Love when it rains on your runs? Keep that score high.
 
-Along with the score, Weather Health's graph is a great way to track weather trends for up to 3 days in advance. See how weather is trending to see how a workout in a few days is looking and save as many locations as you want! Weather Health hopefully is an awesome tool for anyone looking to improve their workouts or their experience outside. Especially with the summer heat upon us!
+Along with the score, Weather Health's graph screen is a great way to track weather trends for up to 3 days in advance. See how weather is trending to see how a workout in a few days is looking and save as many locations as you want! Weather Health hopefully is an awesome tool for anyone looking to improve their workouts or their experience outside. Especially with the summer heat upon us!
+
+# Privacy Policy:
+This privacy policy (“The Policy”) explains how the Art of Weather app (“the App”) uses your data. We use the following pieces of personal information:
+Your device’s location – When you first open the App you will be asked to allow permission for the App to use your device’s location. If you grant permission, the App will access your device’s location (coordinates) and use this to show you the weather at your current location. The App makes a request to a third-party weather service (WeatherAPI.com) to access the weather at your location. Your location is not used for any other purpose other than providing you the weather at your location. We do not track or store your location or access it when you are not using the App. You can revoke the App’s access to your location at anytime through your device settings.
