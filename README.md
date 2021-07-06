@@ -1,11 +1,11 @@
-# Weather Health
-Public facing page for Weather Health
+# Fitness Forecast
+Public facing page for Fitness Forecast
 
-Welcome to Weather Health!
+Welcome to Fitness Forecast!
 
 ![App Icon](https://user-images.githubusercontent.com/12661527/123576839-ac46ea80-d7a0-11eb-88b5-b11375ba4453.png)
 
-Weather Health is native iOS application that lets users know the ideal times to run/bike/hike/cornhorn/etc each day based on weather conditions. Each time has a 'patended' WeatherFit score that represents the favorability of weather conditions at a specific point in time. Since each athlete experiences the weather diffently, Weather Health also allows for further personalization of the score using a 'stoplight' system. Users can easily cycle through the available options (green, yellow, red) by simply tapping a metric's row. Green metrics mildly affect the score, yellow metrics moderately affect the score, and red metrics strongly affect the score. Users can also completely disable a metric from the WeatherFit score by cycling through to the gray option. 
+Fitness Forecast is native iOS application that lets users know the ideal times to run/bike/hike/cornhorn/etc each day based on weather conditions. Each time has a 'patended' WeatherFit score that represents the favorability of weather conditions at a specific point in time. Since each athlete experiences the weather diffently, Fitness Forecast also allows for further personalization of the score using a 'stoplight' system. Users can easily cycle through the available options (green, yellow, red) by simply tapping a metric's row. Green metrics mildly affect the score, yellow metrics moderately affect the score, and red metrics strongly affect the score. Users can also completely disable a metric from the WeatherFit score by cycling through to the gray option. 
 
 Below is a typical example.
 
@@ -20,7 +20,7 @@ Set it to red.
 
 Love when it rains on your runs? Keep that score high.
 
-Along with the score, Weather Health's graph screen is a great way to track weather trends for up to 3 days in advance. See how weather is trending to see how a workout in a few days is looking and save as many locations as you want! Weather Health hopefully is an awesome tool for anyone looking to improve their workouts or their experience outside. Especially with the summer heat upon us!
+Along with the score, Fitness Forecast's graph screen is a great way to track weather trends for up to 3 days in advance. See how weather is trending to see how a workout in a few days is looking and save as many locations as you want! Fitness Forecast hopefully is an awesome tool for anyone looking to improve their workouts or their experience outside. Especially with the summer heat upon us!
 
 # Privacy Policy:
 This privacy policy (“The Policy”) explains how the Art of Weather app (“the App”) uses your data. We use the following pieces of personal information:
